@@ -1,0 +1,41 @@
+// breakpoints
+$breakpoints: (
+  small: 30em,
+  medium: 45em,
+  large: 65em,
+);
+
+// colors
+$colors: (
+  neutral: (
+    100: #fff,
+    900: #1f3049,
+  ),
+  primary: (
+    400: #0066ff,
+  ),
+);
+
+// sizes
+$sizes: (
+  8: 0.5rem,
+  12: 0.75rem,
+  16: 1rem,
+  20: 1.25rem,
+  32: 2rem,
+  36: 2.25rem,
+);
+
+// typography
+$ff-sans: "Open Sans", sans-serif;
+
+$font-sizes: (
+  900: 3.75rem,
+  800: 3rem,
+  600: 1.5rem,
+  500: 1.3125rem,
+  400: 1.125rem,
+);
+
+$fw-400: 400;
+$fw-700: 700;
